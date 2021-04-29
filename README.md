@@ -22,9 +22,23 @@ The code can be modified to target a different REST-API server than Clowder, but
 
 ## Credits (still populating)
 
+Cyreides (3d modelling and art)
+
+JewelBlind (Sound and Music)
+
+VoidGoat (additional Code)
+
+Clowder Team (support)
+
 https://seansleblanc.itch.io/better-minimal-webgl-template (WebGL HTML Template Used)
 
 https://github.com/popcron/gizmos (Allows Unity Gizmos to appear in built programs)
 
 http://wiki.unity3d.com/index.php/Singleton (Unity Singleton Pattern) 
+
+https://rsms.me/inter/ Inter (Font)
+
+http://wiki.unity3d.com/index.php?title=JSONObjectJSONObject (JSON Serialization/Deserialization Utility)
+
+Demigrant's DoTween Library
 
