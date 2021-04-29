@@ -1,6 +1,6 @@
 # ClowderBridge
 
-## See it Live Here: https://colter.us/
+## See it Live Here: https://colter.us/ClowderBridgeDemo/
 
 ClowderBridge is a plugin for syncing Unity data objects with an open-source REST-API server called Clowder. https://clowder.ncsa.illinois.edu/clowder/
 
