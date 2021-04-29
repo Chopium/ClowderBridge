@@ -34,6 +34,8 @@ Clowder Team (support)
 
 https://seansleblanc.itch.io/better-minimal-webgl-template (WebGL HTML Template Used)
 
+https://github.com/Kodrin/URP-PSX (URP PSX Rendering Pipeline)
+
 https://rsms.me/inter/ Inter (Font)
 
 http://wiki.unity3d.com/index.php?title=JSONObjectJSONObject (JSON Serialization/Deserialization Utility)
