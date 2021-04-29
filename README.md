@@ -12,6 +12,8 @@ It can also load videos, pictures, and Unity Asset Bundles. 3D model loading can
 
 ## Getting Started
 
+Note: For this example project, please grab your own copy of Demigrant's DoTween Library. This is only for the UI. 
+
 Each synced data object needs two things: a serializable C# class container, and a manager for handling unity-side submission/fetching/updating/applying. These will be extensions from a base class, with function overrides to handle specifics. 
 
 Making new objects requires making a new Clower dataset, linking its URL in the project, and writing out a serializable C# class.
