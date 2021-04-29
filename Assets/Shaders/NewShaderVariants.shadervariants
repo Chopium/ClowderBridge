@@ -1,0 +1,671 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!200 &20000000
+ShaderVariantCollection:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: NewShaderVariants
+  m_Shaders:
+  - first: {fileID: 64, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: SHADOWS_SINGLE_CASCADE
+        passType: 0
+  - first: {fileID: 102, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 7, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: DIRECTIONAL LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL
+        passType: 5
+  - first: {fileID: 15104, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 15105, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 10753, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+      - keywords: ETC1_EXTERNAL_ALPHA
+        passType: 0
+  - first: {fileID: 10770, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+      - keywords: UNITY_UI_CLIP_RECT
+        passType: 0
+  - first: {fileID: 4800000, guid: 0a1ff4d2851c1f6448e6f32f6ec21abe, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 4800000, guid: d4a26c695b46f084ea814d825542f8c8, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+      - keywords: FOG_LINEAR
+        passType: 0
+      - keywords: FOG_EXP2
+        passType: 0
+  - first: {fileID: 10755, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 66, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 45, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: DIRECTIONAL LIGHTPROBE_SH _EMISSION _NORMALMAP _SPECGLOSSMAP
+        passType: 4
+      - keywords: DIRECTIONAL LIGHTPROBE_SH _ALPHATEST_ON _EMISSION _NORMALMAP _SPECGLOSSMAP
+        passType: 4
+      - keywords: DIRECTIONAL LIGHTPROBE_SH _ALPHABLEND_ON _EMISSION _NORMALMAP _SPECGLOSSMAP
+        passType: 4
+      - keywords: DIRECTIONAL LIGHTPROBE_SH _ALPHAPREMULTIPLY_ON _EMISSION _NORMALMAP
+          _SPECGLOSSMAP
+        passType: 4
+      - keywords: DIRECTIONAL _NORMALMAP _SPECGLOSSMAP
+        passType: 5
+      - keywords: DIRECTIONAL _ALPHATEST_ON _NORMALMAP _SPECGLOSSMAP
+        passType: 5
+      - keywords: DIRECTIONAL _ALPHABLEND_ON _NORMALMAP _SPECGLOSSMAP
+        passType: 5
+      - keywords: DIRECTIONAL _ALPHAPREMULTIPLY_ON _NORMALMAP _SPECGLOSSMAP
+        passType: 5
+      - keywords: SHADOWS_DEPTH
+        passType: 8
+      - keywords: SHADOWS_DEPTH _SPECGLOSSMAP
+        passType: 8
+      - keywords: SHADOWS_DEPTH _ALPHATEST_ON _SPECGLOSSMAP
+        passType: 8
+      - keywords: SHADOWS_DEPTH _ALPHABLEND_ON _SPECGLOSSMAP
+        passType: 8
+      - keywords: SHADOWS_DEPTH _ALPHAPREMULTIPLY_ON _SPECGLOSSMAP
+        passType: 8
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: DIRECTIONAL
+        passType: 4
+      - keywords: DIRECTIONAL LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL LIGHTPROBE_SH _EMISSION
+        passType: 4
+      - keywords: DIRECTIONAL FOG_LINEAR LIGHTPROBE_SH _EMISSION
+        passType: 4
+      - keywords: DIRECTIONAL FOG_LINEAR LIGHTPROBE_SH VERTEXLIGHT_ON
+        passType: 4
+      - keywords: DIRECTIONAL FOG_LINEAR LIGHTPROBE_SH VERTEXLIGHT_ON _EMISSION
+        passType: 4
+      - keywords: DIRECTIONAL LIGHTPROBE_SH _NORMALMAP
+        passType: 4
+      - keywords: DIRECTIONAL LIGHTPROBE_SH _EMISSION _NORMALMAP
+        passType: 4
+      - keywords: DIRECTIONAL LIGHTPROBE_SH _ALPHATEST_ON _EMISSION _NORMALMAP
+        passType: 4
+      - keywords: DIRECTIONAL LIGHTPROBE_SH _ALPHABLEND_ON _EMISSION _NORMALMAP
+        passType: 4
+      - keywords: DIRECTIONAL LIGHTPROBE_SH _ALPHAPREMULTIPLY_ON
+        passType: 4
+      - keywords: DIRECTIONAL LIGHTPROBE_SH _ALPHAPREMULTIPLY_ON _EMISSION _NORMALMAP
+        passType: 4
+      - keywords: DIRECTIONAL LIGHTPROBE_SH _EMISSION _NORMALMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+        passType: 4
+      - keywords: DIRECTIONAL LIGHTPROBE_SH _METALLICGLOSSMAP _NORMALMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+        passType: 4
+      - keywords: DIRECTIONAL LIGHTPROBE_SH _GLOSSYREFLECTIONS_OFF
+        passType: 4
+      - keywords: DIRECTIONAL LIGHTPROBE_SH _ALPHABLEND_ON _GLOSSYREFLECTIONS_OFF
+          _SPECULARHIGHLIGHTS_OFF
+        passType: 4
+      - keywords: DIRECTIONAL LIGHTPROBE_SH _ALPHABLEND_ON _EMISSION _PARALLAXMAP
+        passType: 4
+      - keywords: DIRECTIONAL FOG_LINEAR LIGHTPROBE_SH _ALPHABLEND_ON _EMISSION _PARALLAXMAP
+        passType: 4
+      - keywords: DIRECTIONAL FOG_LINEAR LIGHTPROBE_SH VERTEXLIGHT_ON _ALPHABLEND_ON
+          _EMISSION _PARALLAXMAP
+        passType: 4
+      - keywords: DIRECTIONAL
+        passType: 5
+      - keywords: POINT
+        passType: 5
+      - keywords: FOG_LINEAR POINT
+        passType: 5
+      - keywords: FOG_LINEAR SHADOWS_DEPTH SHADOWS_SOFT SPOT
+        passType: 5
+      - keywords: DIRECTIONAL _NORMALMAP
+        passType: 5
+      - keywords: DIRECTIONAL _ALPHATEST_ON _NORMALMAP
+        passType: 5
+      - keywords: DIRECTIONAL _ALPHABLEND_ON _NORMALMAP
+        passType: 5
+      - keywords: DIRECTIONAL _ALPHAPREMULTIPLY_ON
+        passType: 5
+      - keywords: DIRECTIONAL _ALPHAPREMULTIPLY_ON _NORMALMAP
+        passType: 5
+      - keywords: DIRECTIONAL _NORMALMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+        passType: 5
+      - keywords: DIRECTIONAL _METALLICGLOSSMAP _NORMALMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+        passType: 5
+      - keywords: DIRECTIONAL _ALPHABLEND_ON _SPECULARHIGHLIGHTS_OFF
+        passType: 5
+      - keywords: DIRECTIONAL _ALPHABLEND_ON _PARALLAXMAP
+        passType: 5
+      - keywords: FOG_LINEAR SPOT _ALPHABLEND_ON _PARALLAXMAP
+        passType: 5
+      - keywords: FOG_LINEAR POINT _ALPHABLEND_ON _PARALLAXMAP
+        passType: 5
+      - keywords: SHADOWS_DEPTH
+        passType: 8
+      - keywords: SHADOWS_DEPTH _ALPHATEST_ON
+        passType: 8
+      - keywords: SHADOWS_DEPTH _ALPHABLEND_ON
+        passType: 8
+      - keywords: SHADOWS_DEPTH _ALPHAPREMULTIPLY_ON
+        passType: 8
+      - keywords: SHADOWS_DEPTH _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+        passType: 8
+      - keywords: SHADOWS_DEPTH _METALLICGLOSSMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+        passType: 8
+      - keywords: SHADOWS_DEPTH _ALPHABLEND_ON _PARALLAXMAP
+        passType: 8
+      - keywords: 
+        passType: 10
+      - keywords: 
+        passType: 11
+  - first: {fileID: 47, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: DIRECTIONAL LIGHTPROBE_SH _EMISSION _METALLICGLOSSMAP _NORMALMAP
+          _SPECGLOSSMAP
+        passType: 4
+      - keywords: DIRECTIONAL LIGHTPROBE_SH _ALPHATEST_ON _EMISSION _METALLICGLOSSMAP
+          _NORMALMAP _SPECGLOSSMAP
+        passType: 4
+      - keywords: DIRECTIONAL LIGHTPROBE_SH _ALPHABLEND_ON _EMISSION _METALLICGLOSSMAP
+          _NORMALMAP _SPECGLOSSMAP
+        passType: 4
+      - keywords: DIRECTIONAL LIGHTPROBE_SH _ALPHAPREMULTIPLY_ON _EMISSION _METALLICGLOSSMAP
+          _NORMALMAP _SPECGLOSSMAP
+        passType: 4
+      - keywords: DIRECTIONAL _METALLICGLOSSMAP _NORMALMAP _SPECGLOSSMAP
+        passType: 5
+      - keywords: DIRECTIONAL _ALPHATEST_ON _METALLICGLOSSMAP _NORMALMAP _SPECGLOSSMAP
+        passType: 5
+      - keywords: DIRECTIONAL _ALPHABLEND_ON _METALLICGLOSSMAP _NORMALMAP _SPECGLOSSMAP
+        passType: 5
+      - keywords: DIRECTIONAL _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _NORMALMAP _SPECGLOSSMAP
+        passType: 5
+      - keywords: SHADOWS_DEPTH _METALLICGLOSSMAP
+        passType: 8
+      - keywords: SHADOWS_DEPTH _ALPHATEST_ON _METALLICGLOSSMAP
+        passType: 8
+      - keywords: SHADOWS_DEPTH _ALPHABLEND_ON _METALLICGLOSSMAP
+        passType: 8
+      - keywords: SHADOWS_DEPTH _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP
+        passType: 8
+  - first: {fileID: 51, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: SHADOWS_DEPTH
+        passType: 8
+  - first: {fileID: 103, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 106, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: _SUNDISK_NONE
+        passType: 0
+      - keywords: _SUNDISK_SIMPLE
+        passType: 0
+  - first: {fileID: 108, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 203, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 207, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 211, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: PROCEDURAL_INSTANCING_ON SHADOWS_DEPTH _ALPHABLEND_ON
+        passType: 8
+      - keywords: 
+        passType: 13
+  - first: {fileID: 10507, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 10504, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: SHADOWS_DEPTH
+        passType: 8
+  - first: {fileID: 10506, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 10505, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: SHADOWS_DEPTH
+        passType: 8
+      - keywords: INSTANCING_ON SHADOWS_DEPTH
+        passType: 8
+      - keywords: 
+        passType: 13
+  - first: {fileID: 9000, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 9001, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 9002, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 9003, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 9004, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 9006, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 9007, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 10625, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: DIRECTIONAL
+        passType: 4
+      - keywords: SHADOWS_DEPTH
+        passType: 8
+  - first: {fileID: 10626, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 10623, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: DIRECTIONAL
+        passType: 4
+      - keywords: SHADOWS_DEPTH
+        passType: 8
+      - keywords: INSTANCING_ON SHADOWS_DEPTH
+        passType: 8
+      - keywords: 
+        passType: 13
+  - first: {fileID: 10703, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: DIRECTIONAL LIGHTPROBE_SH
+        passType: 4
+      - keywords: SHADOWS_DEPTH
+        passType: 8
+  - first: {fileID: 10757, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: ETC1_EXTERNAL_ALPHA
+        passType: 0
+  - first: {fileID: 18000, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 18001, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 18003, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 18004, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 4800000, guid: 028dc87fc258c4e6bb2c1c6193628ddb, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 4800000, guid: 621b3f50137901a40a04e49fae7857ba, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+      - keywords: FOG_EXP2
+        passType: 0
+  - first: {fileID: 4800000, guid: 72384121dd8d1a34fb3393ba8c06b161, type: 3}
+    second:
+      variants:
+      - keywords: _SWITCH2_ON
+        passType: 0
+  - first: {fileID: 4800000, guid: 92c34002a1a6848e6bd44e87eb1bf575, type: 3}
+    second:
+      variants:
+      - keywords: DIRECTIONAL LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL
+        passType: 5
+  - first: {fileID: 4800000, guid: 062226c8d5a1182419d31234c53e64e0, type: 3}
+    second:
+      variants:
+      - keywords: DIRECTIONAL LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL
+        passType: 5
+  - first: {fileID: 4800000, guid: 57a031394e25048eaa6d2a55597d2cb2, type: 3}
+    second:
+      variants:
+      - keywords: FOG_EXP2
+        passType: 0
+  - first: {fileID: 4800000, guid: 68e6db2ebdc24f95958faec2be5558d6, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+      - keywords: UNITY_UI_CLIP_RECT
+        passType: 0
+  - first: {fileID: 4800000, guid: c83299d200bd6654ea2d93674e3898ed, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+      - keywords: ETC1_EXTERNAL_ALPHA
+        passType: 0
+  - first: {fileID: 4800000, guid: fb15dc1714d0e214ba1f13314b131e23, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 4800000, guid: fb2786b29d1e047e0be2c96bc4cfec0c, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 4800000, guid: 0e314779293ab46caafe1ee99f857613, type: 3}
+    second:
+      variants:
+      - keywords: DIRECTIONAL LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL
+        passType: 5
+  - first: {fileID: 4800000, guid: fe393ace9b354375a9cb14cdbbc28be4, type: 3}
+    second:
+      variants:
+      - keywords: OUTLINE_ON UNDERLAY_ON
+        passType: 0
+  - first: {fileID: 4800000, guid: 055eab4e84dc70a47ae75b3125a22de6, type: 3}
+    second:
+      variants:
+      - keywords: _SHADING_EVALUATION_MODE_PER_VERTEX
+        passType: 13
+      - keywords: _EMISSION _SHADING_EVALUATION_MODE_PER_VERTEX
+        passType: 13
+      - keywords: _FOG_ON _SHADING_EVALUATION_MODE_PER_VERTEX
+        passType: 13
+      - keywords: _EMISSION _FOG_ON _SHADING_EVALUATION_MODE_PER_VERTEX
+        passType: 13
+      - keywords: _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _SHADING_EVALUATION_MODE_PER_VERTEX
+        passType: 13
+      - keywords: _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _SHADING_EVALUATION_MODE_PER_VERTEX
+        passType: 13
+      - keywords: _EMISSION _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _SHADING_EVALUATION_MODE_PER_VERTEX
+        passType: 13
+      - keywords: INSTANCING_ON _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _SHADING_EVALUATION_MODE_PER_VERTEX
+        passType: 13
+      - keywords: _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _SHADING_EVALUATION_MODE_PER_VERTEX
+          _VERTEX_COLOR_MODE_COLOR
+        passType: 13
+      - keywords: _FOG_ON _LIGHTING_BAKED_ON _SHADING_EVALUATION_MODE_PER_VERTEX
+          _VERTEX_COLOR_MODE_LIGHTING
+        passType: 13
+      - keywords: _FOG_ON _LIGHTING_DYNAMIC_ON _SHADING_EVALUATION_MODE_PER_VERTEX
+          _VERTEX_COLOR_MODE_LIGHTING
+        passType: 13
+      - keywords: _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _SHADING_EVALUATION_MODE_PER_VERTEX
+          _VERTEX_COLOR_MODE_LIGHTING
+        passType: 13
+      - keywords: _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: _EMISSION _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: _FOG_ON _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: _EMISSION _FOG_ON _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: _FOG_ON _LIGHTING_DYNAMIC_ON _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: _EMISSION _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: _EMISSION _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: INSTANCING_ON _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: _FOG_ON _SHADING_EVALUATION_MODE_PER_PIXEL _VERTEX_COLOR_MODE_COLOR
+        passType: 13
+      - keywords: _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _SHADING_EVALUATION_MODE_PER_PIXEL
+          _VERTEX_COLOR_MODE_COLOR
+        passType: 13
+      - keywords: _EMISSION _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _SHADING_EVALUATION_MODE_PER_PIXEL
+          _VERTEX_COLOR_MODE_COLOR
+        passType: 13
+      - keywords: _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _SHADING_EVALUATION_MODE_PER_PIXEL
+          _VERTEX_COLOR_MODE_LIGHTING
+        passType: 13
+      - keywords: _EMISSION _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _SHADING_EVALUATION_MODE_PER_PIXEL
+          _VERTEX_COLOR_MODE_LIGHTING
+        passType: 13
+      - keywords: _ALPHATEST_ON _EMISSION _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON
+          _SHADING_EVALUATION_MODE_PER_VERTEX
+        passType: 13
+      - keywords: _ALPHAPREMULTIPLY_ON _SHADING_EVALUATION_MODE_PER_VERTEX
+        passType: 13
+      - keywords: _ALPHAPREMULTIPLY_ON _EMISSION _SHADING_EVALUATION_MODE_PER_VERTEX
+        passType: 13
+      - keywords: _ALPHAPREMULTIPLY_ON _FOG_ON _SHADING_EVALUATION_MODE_PER_VERTEX
+        passType: 13
+      - keywords: _ALPHAPREMULTIPLY_ON _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON
+          _SHADING_EVALUATION_MODE_PER_VERTEX
+        passType: 13
+      - keywords: _ALPHAPREMULTIPLY_ON _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: _ALPHAPREMULTIPLY_ON _EMISSION _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: _ALPHAPREMULTIPLY_ON _FOG_ON _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: _ALPHAPREMULTIPLY_ON _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON
+          _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: _ALPHAMODULATE_ON _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: _ALPHAMODULATE_ON _FOG_ON _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _REFLECTION_ON
+          _SHADING_EVALUATION_MODE_PER_VERTEX
+        passType: 13
+      - keywords: _FOG_ON _REFLECTION_ON _SHADING_EVALUATION_MODE_PER_VERTEX _VERTEX_COLOR_MODE_COLOR
+        passType: 13
+      - keywords: _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _REFLECTION_ON
+          _SHADING_EVALUATION_MODE_PER_VERTEX _VERTEX_COLOR_MODE_COLOR
+        passType: 13
+      - keywords: _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _REFLECTION_ON _SHADING_EVALUATION_MODE_PER_VERTEX
+          _VERTEX_COLOR_MODE_LIGHTING
+        passType: 13
+      - keywords: _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _REFLECTION_ON
+          _SHADING_EVALUATION_MODE_PER_VERTEX _VERTEX_COLOR_MODE_LIGHTING
+        passType: 13
+      - keywords: _EMISSION _FOG_ON _REFLECTION_ON _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: _FOG_ON _LIGHTING_DYNAMIC_ON _REFLECTION_ON _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _REFLECTION_ON _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _REFLECTION_ON
+          _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: DIRLIGHTMAP_COMBINED _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON
+          _REFLECTION_ON _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: DIRLIGHTMAP_COMBINED LIGHTMAP_ON _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON
+          _REFLECTION_ON _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: _EMISSION _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _REFLECTION_ON
+          _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: INSTANCING_ON _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _REFLECTION_ON
+          _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _REFLECTION_ON
+          _SHADING_EVALUATION_MODE_PER_PIXEL _VERTEX_COLOR_MODE_COLOR
+        passType: 13
+      - keywords: _EMISSION _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _REFLECTION_ON
+          _SHADING_EVALUATION_MODE_PER_PIXEL _VERTEX_COLOR_MODE_COLOR
+        passType: 13
+      - keywords: INSTANCING_ON _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _REFLECTION_ON
+          _SHADING_EVALUATION_MODE_PER_PIXEL _VERTEX_COLOR_MODE_COLOR
+        passType: 13
+      - keywords: _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _REFLECTION_ON _SHADING_EVALUATION_MODE_PER_PIXEL
+          _VERTEX_COLOR_MODE_LIGHTING
+        passType: 13
+      - keywords: _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _REFLECTION_ON
+          _SHADING_EVALUATION_MODE_PER_PIXEL _VERTEX_COLOR_MODE_LIGHTING
+        passType: 13
+      - keywords: _EMISSION _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _REFLECTION_ON
+          _SHADING_EVALUATION_MODE_PER_PIXEL _VERTEX_COLOR_MODE_LIGHTING
+        passType: 13
+      - keywords: INSTANCING_ON _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _REFLECTION_ON
+          _SHADING_EVALUATION_MODE_PER_PIXEL _VERTEX_COLOR_MODE_LIGHTING
+        passType: 13
+      - keywords: _ALPHATEST_ON _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON _REFLECTION_ON
+          _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: DIRLIGHTMAP_COMBINED _ALPHATEST_ON _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON
+          _REFLECTION_ON _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: _ALPHAPREMULTIPLY_ON _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON
+          _REFLECTION_ON _SHADING_EVALUATION_MODE_PER_VERTEX _VERTEX_COLOR_MODE_LIGHTING
+        passType: 13
+      - keywords: _ALPHAPREMULTIPLY_ON _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON
+          _REFLECTION_ON _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: _ALPHAPREMULTIPLY_ON _EMISSION _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON
+          _REFLECTION_ON _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: _ALPHAPREMULTIPLY_ON _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON
+          _REFLECTION_ON _SHADING_EVALUATION_MODE_PER_PIXEL _VERTEX_COLOR_MODE_COLOR
+        passType: 13
+      - keywords: INSTANCING_ON _ALPHAPREMULTIPLY_ON _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON
+          _REFLECTION_ON _SHADING_EVALUATION_MODE_PER_PIXEL _VERTEX_COLOR_MODE_COLOR
+        passType: 13
+      - keywords: _ALPHAPREMULTIPLY_ON _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON
+          _REFLECTION_ON _SHADING_EVALUATION_MODE_PER_PIXEL _VERTEX_COLOR_MODE_LIGHTING
+        passType: 13
+      - keywords: INSTANCING_ON _ALPHAPREMULTIPLY_ON _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON
+          _REFLECTION_ON _SHADING_EVALUATION_MODE_PER_PIXEL _VERTEX_COLOR_MODE_LIGHTING
+        passType: 13
+      - keywords: _ALPHAMODULATE_ON _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON
+          _REFLECTION_ON _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: _ALPHAMODULATE_ON _EMISSION _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON
+          _REFLECTION_ON _SHADING_EVALUATION_MODE_PER_PIXEL
+        passType: 13
+      - keywords: _ALPHAMODULATE_ON _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON
+          _REFLECTION_ON _SHADING_EVALUATION_MODE_PER_PIXEL _VERTEX_COLOR_MODE_COLOR
+        passType: 13
+      - keywords: INSTANCING_ON _ALPHAMODULATE_ON _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON
+          _REFLECTION_ON _SHADING_EVALUATION_MODE_PER_PIXEL _VERTEX_COLOR_MODE_COLOR
+        passType: 13
+      - keywords: INSTANCING_ON _ALPHAMODULATE_ON _FOG_ON _LIGHTING_BAKED_ON _LIGHTING_DYNAMIC_ON
+          _REFLECTION_ON _SHADING_EVALUATION_MODE_PER_PIXEL _VERTEX_COLOR_MODE_LIGHTING
+        passType: 13
+  - first: {fileID: 4800000, guid: 8e05d2f66aadbd84fb2998f8248241c2, type: 3}
+    second:
+      variants:
+      - keywords: _CRT_MASK_COMPRESSED_TV
+        passType: 0
+      - keywords: _CRT_MASK_APERTURE_GRILL
+        passType: 0
+      - keywords: _CRT_MASK_VGA
+        passType: 0
+      - keywords: _CRT_MASK_VGA_STRETCHED
+        passType: 0
+      - keywords: _CRT_MASK_TEXTURE
+        passType: 0
+      - keywords: _CRT_MASK_DISABLED
+        passType: 0
+  - first: {fileID: 4800000, guid: 50b406436c6214c49aaaa6011b71dde8, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: 4800000, guid: 5caf62d8bd7c44596ace77ef9eb8ea31, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+  - first: {fileID: -6465566751694194690, guid: 3bd1b4408569067459014be6e61853f3,
+      type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0

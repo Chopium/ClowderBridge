@@ -58,3 +58,373 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/Plugins/Demigiant.meta
+Assets/Plugins/Demigiant/DemiLib.meta
+Assets/Plugins/Demigiant/DemiLib/Core.meta
+Assets/Plugins/Demigiant/DemiLib/Core/DemiLib.dll
+Assets/Plugins/Demigiant/DemiLib/Core/DemiLib.dll.meta
+Assets/Plugins/Demigiant/DemiLib/Core/DemiLib.xml
+Assets/Plugins/Demigiant/DemiLib/Core/DemiLib.xml.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/DemiEditor.dll
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/DemiEditor.dll.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/DemiEditor.xml
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/DemiEditor.xml.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/blackSquare.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/blackSquare.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/blackSquareAlpha10.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/blackSquareAlpha10.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/blackSquareAlpha15.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/blackSquareAlpha15.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/blackSquareAlpha25.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/blackSquareAlpha25.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/blackSquareAlpha50.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/blackSquareAlpha50.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/blackSquareAlpha80.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/blackSquareAlpha80.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/blueSquare.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/blueSquare.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/circle.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/circle.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/greenSquare.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/greenSquare.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/grid_bright.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/grid_bright.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/grid_dark.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/grid_dark.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alert.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alert.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignB.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignB.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignBC.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignBC.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignBL.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignBL.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignBR.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignBR.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignCC.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignCC.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignCL.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignCL.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignCR.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignCR.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignHC.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignHC.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignL.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignL.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignR.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignR.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignT.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignT.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignTC.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignTC.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignTL.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignTL.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignTR.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignTR.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignVC.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignVC.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_camera.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_camera.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_camera_border.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_camera_border.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_cog.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_cog.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_cog_border.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_cog_border.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_comment.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_comment.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_comment_border.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_comment_border.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_delete.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_delete.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_demigiant.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_demigiant.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_distributeHAlignT.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_distributeHAlignT.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_distributeVAlignL.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_distributeVAlignL.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_end.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_end.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_flipV.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_flipV.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_foldout_closed.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_foldout_closed.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_foldout_open.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_foldout_open.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_heart.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_heart.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_heart_border.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_heart_border.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_light.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_light.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_light_border.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_light_border.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_lock.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_lock.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_lock_open.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_lock_open.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_nodeArrow.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_nodeArrow.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_ok.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_ok.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_optionsDropdown.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_optionsDropdown.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_play.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_play.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_play_border.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_play_border.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_skull.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_skull.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_skull_border.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_skull_border.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_star.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_star.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_star_border.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_star_border.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_ui.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_ui.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_ui_border.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_ui_border.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_visibility.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_visibility.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_visibility_off.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_visibility_off.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/orangeSquare.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/orangeSquare.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_atlas.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_atlas.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_audio.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_audio.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_bundle.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_bundle.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_cog.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_cog.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_cross.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_cross.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_demigiant.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_demigiant.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_folder.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_folder.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_fonts.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_fonts.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_heart.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_heart.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_materials.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_materials.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_models.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_models.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_particles.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_particles.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_play.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_play.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_prefab.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_prefab.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_scripts.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_scripts.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_shaders.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_shaders.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_skull.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_skull.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_star.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_star.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_terrains.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_terrains.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_textures.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_textures.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/purpleSquare.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/purpleSquare.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/redSquare.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/redSquare.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorder.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorder.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderAlpha15.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderAlpha15.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurved.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurved.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurved02.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurved02.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurved02_darkBorders.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurved02_darkBorders.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurved_darkBorders.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurved_darkBorders.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurved_darkBordersAlpha.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurved_darkBordersAlpha.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurvedAlpha.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurvedAlpha.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurvedEmpty.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurvedEmpty.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurvedEmpty02.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurvedEmpty02.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurvedEmptyThick.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurvedEmptyThick.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderEmpty.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderEmpty.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderEmpty01.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderEmpty01.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderEmpty02.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderEmpty02.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderEmpty03.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderEmpty03.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderThickEmpty.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderThickEmpty.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderThickerEmpty.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderThickerEmpty.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareCorners03.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareCorners03.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareCornersEmpty02.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareCornersEmpty02.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/tileBars_empty.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/tileBars_empty.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/tileBars_slanted.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/tileBars_slanted.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/tileBars_slanted_alpha.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/tileBars_slanted_alpha.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/transparentSquare.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/transparentSquare.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteDot.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteDot.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteDot_darkBorder.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteDot_darkBorder.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteDot_whiteBorderAlpha.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteDot_whiteBorderAlpha.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteSquare.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteSquare.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteSquare_fadeOut_bt.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteSquare_fadeOut_bt.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteSquareAlpha10.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteSquareAlpha10.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteSquareAlpha15.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteSquareAlpha15.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteSquareAlpha25.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteSquareAlpha25.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteSquareAlpha50.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteSquareAlpha50.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteSquareAlpha80.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteSquareAlpha80.png.meta
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/yellowSquare.png
+Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/yellowSquare.png.meta
+Assets/Plugins/Demigiant/DOTween.meta
+Assets/Plugins/Demigiant/DOTween/DOTween.dll
+Assets/Plugins/Demigiant/DOTween/DOTween.dll.meta
+Assets/Plugins/Demigiant/DOTween/DOTween.XML
+Assets/Plugins/Demigiant/DOTween/DOTween.XML.meta
+Assets/Plugins/Demigiant/DOTween/Editor.meta
+Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll
+Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll.meta
+Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.XML
+Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.XML.meta
+Assets/Plugins/Demigiant/DOTween/Editor/Imgs.meta
+Assets/Plugins/Demigiant/DOTween/Editor/Imgs/DOTweenIcon.png
+Assets/Plugins/Demigiant/DOTween/Editor/Imgs/DOTweenIcon.png.meta
+Assets/Plugins/Demigiant/DOTween/Editor/Imgs/Footer.png
+Assets/Plugins/Demigiant/DOTween/Editor/Imgs/Footer.png.meta
+Assets/Plugins/Demigiant/DOTween/Editor/Imgs/Footer_dark.png
+Assets/Plugins/Demigiant/DOTween/Editor/Imgs/Footer_dark.png.meta
+Assets/Plugins/Demigiant/DOTween/Editor/Imgs/Header.jpg
+Assets/Plugins/Demigiant/DOTween/Editor/Imgs/Header.jpg.meta
+Assets/Plugins/Demigiant/DOTween/Modules.meta
+Assets/Plugins/Demigiant/DOTween/Modules/DOTween.Modules.asmdef
+Assets/Plugins/Demigiant/DOTween/Modules/DOTween.Modules.asmdef.meta
+Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs
+Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs.meta
+Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs
+Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs.meta
+Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs
+Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs.meta
+Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs
+Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs.meta
+Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUI.cs
+Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUI.cs.meta
+Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs
+Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs.meta
+Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs
+Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs.meta
+Assets/Plugins/Demigiant/DOTween/readme.txt
+Assets/Plugins/Demigiant/DOTween/readme.txt.meta
+Assets/Plugins/TextMesh Pro.meta
+Assets/Plugins/TextMesh Pro/Documentation.meta
+Assets/Plugins/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+Assets/Plugins/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
+Assets/Plugins/TextMesh Pro/Fonts.meta
+Assets/Plugins/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+Assets/Plugins/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta
+Assets/Plugins/TextMesh Pro/Fonts/LiberationSans.ttf
+Assets/Plugins/TextMesh Pro/Fonts/LiberationSans.ttf.meta
+Assets/Plugins/TextMesh Pro/Fonts/PT-MONO.BOLD (3).TTF
+Assets/Plugins/TextMesh Pro/Fonts/PT-MONO.BOLD (3).TTF.meta
+Assets/Plugins/TextMesh Pro/Fonts/PT-MONO.REGULAR (3).TTF
+Assets/Plugins/TextMesh Pro/Fonts/PT-MONO.REGULAR (3).TTF.meta
+Assets/Plugins/TextMesh Pro/Resources.meta
+Assets/Plugins/TextMesh Pro/Resources/Fonts & Materials.meta
+Assets/Plugins/TextMesh Pro/Resources/Fonts & Materials/AGENCYB.TTF
+Assets/Plugins/TextMesh Pro/Resources/Fonts & Materials/AGENCYB.TTF.meta
+Assets/Plugins/TextMesh Pro/Resources/Fonts & Materials/AGENCYR - DARK.asset
+Assets/Plugins/TextMesh Pro/Resources/Fonts & Materials/AGENCYR - DARK.asset.meta
+Assets/Plugins/TextMesh Pro/Resources/Fonts & Materials/AGENCYR SDF.asset
+Assets/Plugins/TextMesh Pro/Resources/Fonts & Materials/AGENCYR SDF.asset.meta
+Assets/Plugins/TextMesh Pro/Resources/Fonts & Materials/AGENCYR.TTF
+Assets/Plugins/TextMesh Pro/Resources/Fonts & Materials/AGENCYR.TTF.meta
+Assets/Plugins/TextMesh Pro/Resources/Fonts & Materials/BlackLiberation.mat
+Assets/Plugins/TextMesh Pro/Resources/Fonts & Materials/BlackLiberation.mat.meta
+Assets/Plugins/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+Assets/Plugins/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat.meta
+Assets/Plugins/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+Assets/Plugins/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat.meta
+Assets/Plugins/TextMesh Pro/Resources/Fonts & Materials/PT-MONO-BOLD.asset
+Assets/Plugins/TextMesh Pro/Resources/Fonts & Materials/PT-MONO-BOLD.asset.meta
+Assets/Plugins/TextMesh Pro/Resources/Fonts & Materials/PT-MONO.asset
+Assets/Plugins/TextMesh Pro/Resources/Fonts & Materials/PT-MONO.asset.meta
+Assets/Plugins/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+Assets/Plugins/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+Assets/Plugins/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+Assets/Plugins/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
+Assets/Plugins/TextMesh Pro/Resources/Shaders.meta
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader.meta
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader.meta
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader.meta
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader.meta
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader.meta
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader.meta
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader.meta
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMP_SDF.shader
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMP_SDF.shader.meta
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader.meta
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMPro.cginc
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMPro.cginc.meta
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc.meta
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc
+Assets/Plugins/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc.meta
+Assets/Plugins/TextMesh Pro/Resources/Sprite Assets.meta
+Assets/Plugins/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+Assets/Plugins/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta
+Assets/Plugins/TextMesh Pro/Resources/Style Sheets.meta
+Assets/Plugins/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+Assets/Plugins/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+Assets/Plugins/TextMesh Pro/Resources/TMP Settings.asset
+Assets/Plugins/TextMesh Pro/Resources/TMP Settings.asset.meta
+Assets/Plugins/TextMesh Pro/Sprites.meta
+Assets/Plugins/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+Assets/Plugins/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta
+Assets/Plugins/TextMesh Pro/Sprites/EmojiOne.json
+Assets/Plugins/TextMesh Pro/Sprites/EmojiOne.json.meta
+Assets/Plugins/TextMesh Pro/Sprites/EmojiOne.png
+Assets/Plugins/TextMesh Pro/Sprites/EmojiOne.png.meta
+Assets/Plugins/UnityVC.meta
+Assets/Plugins/UnityVC/UnityVCShadow.cginc
+Assets/Plugins/UnityVC/UnityVCShadow.cginc.meta
