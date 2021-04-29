@@ -8,7 +8,7 @@ It brings asynchronous networking, data collection, and other features to Unity,
 
 It has features like anonymized user tracking through device hashing, admin/user privileges, local storage/backups of datasets, and a master switch for shaping the online space.
 
-It can also load videos, pictures, and Unity Asset Bundles, tho the code for handling the Unity side of that is brittle. 
+It can also load videos, pictures, and Unity Asset Bundles. 3D model loading can be handled through Trilib, but as that's a paid Unity package, the function has been stripped. 
 
 ## Getting Started
 
